@@ -1,0 +1,8 @@
+PING localhost (127.0.0.1) 56(84) bytes of data.
+64 바이트 (localhost (127.0.0.1)에서): icmp_seq=1 ttl=64 시간=0.050 ms
+64 바이트 (localhost (127.0.0.1)에서): icmp_seq=2 ttl=64 시간=0.047 ms
+64 바이트 (localhost (127.0.0.1)에서): icmp_seq=3 ttl=64 시간=0.046 ms
+
+--- localhost 핑 통계 ---
+3 패킷이 전송되었습니다, 3 수신되었습니다, 0% 패킷 손실, 시간 2044ms
+rtt 최소/평균/최대/표준편차 = 0.046/0.047/0.050/0.001 ms
